@@ -66,9 +66,9 @@ También puedes abrir el proyecto en un IDE y ejecutar el archivo `main.java`.
 
 ## Imágenes
 
-![Menú principal](imagenes/menu-principal.png)
+![Menú principal]()
 
-![Selección de asiento](imagenes/seleccion-asiento.png)
+![Selección de asiento]()
 
 ## Nota
 
